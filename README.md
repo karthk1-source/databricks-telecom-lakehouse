@@ -1,6 +1,6 @@
 # Databricks Telecom Lakehouse Analytics
 
-End-to-End Telecom Analytics Pipeline using Databricks, PySpark, Delta Lake, Unity Catalog, and Medallion Architecture.
+End-to-End Telecom Lakehouse using Databricks, PySpark, Delta Lake, Unity Catalog, Medallion Architecture, Delta MERGE, Data Quality, Broadcast Joins, and Spark Optimization.
 
 ---
 
@@ -26,11 +26,6 @@ Dataset size: 50,000+ telecom network events.
 - Broadcast Joins
 - Partition Pruning
 
----
-
-## Architecture
-
-![Architecture](docs/architecture.png)
 
 ---
 
